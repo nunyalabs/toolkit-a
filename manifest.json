@@ -1,0 +1,29 @@
+{
+  "name": "Hypertension Research Toolkit",
+  "short_name": "HTN Research",
+  "description": "Digital N-of-1 Trials Data Collection Tool",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#764ba2",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["health", "productivity", "education"],
+  "shortcuts": [
+    { "name": "Screening", "url": "/#screening", "description": "Open participant screening" },
+    { "name": "Interview", "url": "/#interview", "description": "Open interview & recording" }
+  ]
+}
