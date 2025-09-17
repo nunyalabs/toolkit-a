@@ -1,15 +1,32 @@
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+*.Spotlight-V100
+*.Trashes
+ehthumbs.db
+Thumbs.db
 
 # Editors
 .vscode/
 .idea/
+*.code-workspace
+.history/
+.swp
+.swo
 
 # Node (if added later)
 node_modules/
 
 # Build artifacts
 /dist/
+
+# Env
+.env
+.env.local
+.env.*.local
 
 # Logs
 npm-debug.log*
