@@ -23,7 +23,7 @@
   ],
   "categories": ["health", "productivity", "education"],
   "shortcuts": [
-    { "name": "Screening", "url": "/#screening", "description": "Open participant screening" },
-    { "name": "Interview", "url": "/#interview", "description": "Open interview & recording" }
+    { "name": "Screening", "url": "#screening", "description": "Open participant screening" },
+    { "name": "Interview", "url": "#interview", "description": "Open interview & recording" }
   ]
 }
